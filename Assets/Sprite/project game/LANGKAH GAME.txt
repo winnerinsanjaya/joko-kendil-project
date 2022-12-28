@@ -1,0 +1,19 @@
+game : joko kendil
+
+aksi perkarakter : joko kendil ( jalan ke kanan, ke kiri, dan lompat)
+                   tentara ( patroli kanan kiri)
+                   raja (patroli kanan kiri)
+
+health : joko kendil punya darah jika kena musuh dua kali dia hilang
+
+begitupun musuh jika kena lompatan joko kendil 2 kali musuh menghilang
+
+level : 1. joko kendil menghadapi rintangan saja dengan lewati box seperti game mario bros
+level : 2. joko kendil menghadapi rintangan box dan tentara yang sedang patroli
+level : 3. joko kendil menghadapi rintangan box hanya 1 object saja, tentara patroli dan raja patroli
+
+setelah membunuh raja ada tulisan finish besar di background level 3.
+
+NB : KALO BISA RAJA BISA NEMBAK. PELURUNYA PAKAI GUCI. HEHEHEHE
+
+THANK U
